@@ -1,0 +1,25 @@
+{
+    "name": "okex-auto",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "dependencies": {
+        "axios": "^0.24.0",
+        "ws": "^8.4.0"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node app/index"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/siniangy/Okex-auto.git"
+    },
+    "author": "Sinian",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/siniangy/Okex-auto/issues"
+    },
+    "homepage": "https://github.com/siniangy/Okex-auto#readme"
+}
